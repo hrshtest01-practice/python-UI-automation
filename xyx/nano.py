@@ -1,1 +1,2 @@
-print("Login test - master branch")
+print("Login test - master branch(resolved version)")
+
